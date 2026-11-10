@@ -1,0 +1,25 @@
+# Compiled executables and Windows sidecar manifests
+*.exe
+*.exe.manifest
+
+# Local connection strings and environment configuration
+.env
+.env.*
+!.env.example
+
+# IDE and editor settings
+.vscode/
+.idea/
+
+# Build artifacts
+*.o
+*.obj
+*.dll
+*.lib
+*.a
+
+# Temporary and log files
+*.tmp
+*.log
+*.bak
+
